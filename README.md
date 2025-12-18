@@ -28,6 +28,11 @@
 
 <img width="761" height="672" alt="image" src="https://github.com/user-attachments/assets/8118f5a9-14e8-46a6-a3bd-85eb5b4a3f8d" />
 
+**TABULATION:**
+
+<img width="758" height="470" alt="{F70C4861-DFB3-4E4F-82D2-E4EFDAB787CC}" src="https://github.com/user-attachments/assets/62468031-7f0e-4342-80cd-0ca8c9fbf2c4" />
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
