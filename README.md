@@ -22,6 +22,13 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="624" height="655" alt="{4EB41ECD-6F69-4098-AFE1-E762AF871CD1}" src="https://github.com/user-attachments/assets/a7afbee0-531f-45e4-b309-44a4fd0a0c26" />
+
+**CALCULATIONS:** 
+
+<img width="587" height="665" alt="{CF231425-4614-4ED0-BC79-DEDED60C9A4F}" src="https://github.com/user-attachments/assets/b7db1eec-2c8a-49ab-a1f7-71005c123e99" />
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -40,9 +47,9 @@
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is 1.22	mA.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	-4.41   mA.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	5.57    mA.
 
