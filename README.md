@@ -57,3 +57,7 @@ b)	The current across 560Ω resistor is	-4.42  mA.
 
 c)	The current across 470Ω resistor is 5.51  mA.
 
+**MARKS SPLIT UP**
+![IMG-20251222-WA0002](https://github.com/user-attachments/assets/2773196f-00a1-445b-9571-ae36199275bf)
+
+
